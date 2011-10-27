@@ -1,0 +1,31 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="LastMinute:jar">
+    <output-path>$PROJECT_DIR$</output-path>
+    <root id="archive" name="LastMinute.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/src/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="module-output" name="LastMinute" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libs/htmlunit-core-js.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libs/htmlunit.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libs/log4j.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/runtimelibs/commons-codec.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/runtimelibs/commons-collections.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/runtimelibs/commons-httpclient.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/runtimelibs/commons-io.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/runtimelibs/commons-lang.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/runtimelibs/commons-logging.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/runtimelibs/cssparser.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/runtimelibs/htmlunit-core-js.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/runtimelibs/htmlunit.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/runtimelibs/log4j.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/runtimelibs/nekohtml.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/runtimelibs/sac.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/runtimelibs/serializer.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/runtimelibs/xalan.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/runtimelibs/xercesImpl.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/runtimelibs/xml-apis.jar" path-in-jar="/" />
+      <element id="dir-copy" path="$PROJECT_DIR$/runtimelibs" />
+    </root>
+  </artifact>
+</component>
